@@ -6,7 +6,7 @@ This repository provides third-party open-source source materials, license notic
 
 ### FFmpeg n9.0.2
 
-**[View FFmpeg n9.0.2 Source Code and Licenses](https://github.com/chockiiii-collab/HursaFlow-ThirdParty-Sources/releases/tag/ffmpeg-n9.0.2)**
+**[View FFmpeg n9.0.2 Source Code and Licenses](https://github.com/HursaFlow/HursaFlow-ThirdParty-Sources/releases/tag/ffmpeg-n9.0.2)**
 
 This release provides:
 
