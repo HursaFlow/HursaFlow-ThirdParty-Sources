@@ -1,10 +1,10 @@
-# HursaFlow — Third-Party Sources
+[README.md](https://github.com/user-attachments/files/35287879/README.md)# HursaFlow - Third-Party Sources
 
 This repository provides third-party open-source source materials, license notices, and build documentation associated with HursaFlow, a local-first Windows desktop application.
 
 ## Available Source Materials
 
-### FFmpeg n9.0.2
+### FFmpeg n9.0.2 Main HursaFlow runtime for video processing, Cinema features, and media export.
 
 **[View FFmpeg n9.0.2 Source Code and Licenses](https://github.com/HursaFlow/HursaFlow-ThirdParty-Sources/releases/tag/ffmpeg-n9.0.2)**
 
@@ -17,6 +17,17 @@ This release provides:
 - Documentation describing the included runtime dependencies.
 
 See the release assets for the available downloads.
+
+### FFmpeg 8.1 - Used by the separately distributed Whisper Turbo INT8 component
+
+**[View FFmpeg 8.1 Source Code and Licenses](https://github.com/HursaFlow/HursaFlow-ThirdParty-Sources/releases/tag/ffmpeg-8.1-whisper)**
+
+This release provides:
+
+- `FFmpeg_8_1_Source.zip` - FFmpeg 8.1 source archive.
+- `FFmpeg_8_1_LICENSE.zip` - associated license materials.
+
+These materials relate to the FFmpeg libraries used with HursaFlow Whisper Turbo INT8. See the release assets for the available downloads.
 
 ## Licensing
 
