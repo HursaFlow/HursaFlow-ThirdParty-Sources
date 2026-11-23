@@ -1,10 +1,10 @@
-[README.md](https://github.com/user-attachments/files/35287879/README.md)# HursaFlow - Third-Party Sources
+HursaFlow - Third-Party Sources
 
 This repository provides third-party open-source source materials, license notices, and build documentation associated with HursaFlow, a local-first Windows desktop application.
 
 ## Available Source Materials
 
-### FFmpeg n9.0.2 Main HursaFlow runtime for video processing, Cinema features, and media export.
+### FFmpeg n9.0.2 - Cinema Main HursaFlow Runtime
 
 **[View FFmpeg n9.0.2 Source Code and Licenses](https://github.com/HursaFlow/HursaFlow-ThirdParty-Sources/releases/tag/ffmpeg-n9.0.2)**
 
